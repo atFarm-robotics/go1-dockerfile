@@ -25,6 +25,6 @@ roslaunch unitree_gazebo normal.launch rname:go1
 ```
 
 ```sh 
-rosrun unitree_controllers unitree_servo
+rosrun unitree_controller unitree_servo
 ```
 
