@@ -11,7 +11,7 @@ docker build -t bitdog:1.0 .
 ```sh 
 source docker_gazebo.bash
 ```
-Abrir outros containers:
+Entrar no container em outro terminal:
 
 ```sh 
 docker exec -it <nome_container> bash
