@@ -21,7 +21,7 @@ Hint: o nome do container pode ser obtido dando Tab na hora que estiver escreven
 ## ROS
 
 ```sh 
-roslaunch unitree_gazebo normal.launch rname:go1
+roslaunch unitree_gazebo normal.launch rname:=go1
 ```
 
 ```sh 
