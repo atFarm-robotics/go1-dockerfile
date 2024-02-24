@@ -14,7 +14,7 @@ source docker_gazebo.bash
 Entrar no container em outro terminal:
 
 ```sh 
-docker exec -it <nome_container> bash
+docker exec -it bitdog_container bash
 ```
 Hint: o nome do container pode ser obtido dando Tab na hora que estiver escrevendo o comando ou com o comando docker ps
 
