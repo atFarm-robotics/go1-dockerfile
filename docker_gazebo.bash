@@ -11,4 +11,5 @@ docker run \
         --cpu-shares 1024  \
         --memory 2g \
         --net=host \
+        --name bitdog_container \
         bitdog:1.0
