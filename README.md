@@ -1,4 +1,4 @@
-# go1-dockerfile
+# go1-gazebo-dockerfile
 
 This repository provides a Dockerfile for setting up the BitDog environment, allowing for seamless containerization. The Docker commands enable easy building and execution of the container. Additionally, the README guides users through launching the Robot Operating System (ROS) with specific configurations for the Unitree robot, facilitating a smooth development and testing process.
 
